@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from Kia import *
+from Botakbot import *
 from datetime import datetime
 from time import sleep
 from bs4 import BeautifulSoup
